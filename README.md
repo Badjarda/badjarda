@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Duarte Costa</h1>
-<h3 align="center">A passionate backend developer from Portugal</h3>
+<h3 align="center">A passionate blockchain and decentralized systems developer from Portugal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badjarda&label=Profile%20views&color=0e75b6&style=flat" alt="badjarda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badjarda" alt="badjarda" /></a> </p>
 
-- 🌱 I’m currently finishing college **Computer Science**
+- 🌱 Recently completed my **Master’s in Computer Science** with a specialization in Cybersecurity and Distributed Systems.
 
-- 📫 How to reach me **duarteferreiracosta01@gmail.com**
+- 💡 Passionate about **blockchain**, **decentralized technologies**, and **building real-world applications** using Distributed Ledger Technology (DLT) for industries like real estate and finance.
 
-- ⚡ Fun fact **I play table tennis**
+- 📫 Reach me at **duarteferreiracosta01@gmail.com**
+
+- ⚡ Fun facts: I enjoy **table tennis**, chess, and diving into science-based topics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
