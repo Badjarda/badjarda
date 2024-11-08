@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badjarda&label=Profile%20views&color=0e75b6&style=flat" alt="badjarda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badjarda" alt="badjarda" /></a> </p>
+
 
 - 🌱 Recently completed my **Master’s in Computer Science** with a specialization in Cybersecurity and Distributed Systems.
 
