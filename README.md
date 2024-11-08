@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/duarte-costa01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duartecosta01" height="30" width="40" /></a>
 <a href="https://www.instagram.com/duarte_costa01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duartecosta01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCOHutkoTWcvxgBYl81QfEwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="badjarda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@duartecosta8070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="badjarda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
