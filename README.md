@@ -4,14 +4,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=badjarda&label=Profile%20views&color=0e75b6&style=flat" alt="badjarda" /> </p>
 
 
+🚀 Specializing in **Ethereum (Solidity), Solana (Rust), and Canton (DAML)** to build scalable **Web3 solutions**.
 
-- 🌱 Recently completed my **Master’s in Computer Science** with a specialization in Cybersecurity and Distributed Systems.
+🔹 Experienced in **Smart Contract Development, Decentralized Identifiers (DIDs), Verifiable Credentials (VCs), and Layer 2 Solutions**.
 
-- 💡 Passionate about **blockchain**, **decentralized technologies**, and **building real-world applications** using Distributed Ledger Technology (DLT) for industries like real estate and finance.
+🔍 Researching **decentralized marketplaces, tokenized real estate, and privacy-preserving finance**.
 
-- 📫 Reach me at **duarteferreiracosta01@gmail.com**
+🎯 Exploring the **intersection of Cybersecurity & Blockchain** to create **secure and scalable DApps**.
 
-- ⚡ Fun facts: I enjoy **table tennis**, chess, and diving into science-based topics.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
