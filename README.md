@@ -45,17 +45,19 @@
 ![Solana](https://img.shields.io/badge/Solana-Rust-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![DAML](https://img.shields.io/badge/DAML-Canton-0061ff?style=for-the-badge&logo=DAML&logoColor=white)
 
+<!--
+### 🏆 Blockchain Projects
 
-<> ### 🏆 Blockchain Projects
+- [Decentralized Real Estate Marketplace](https://github.com/yourproject) 🏡 
+  - Built using **Solidity + Hardhat** for smart contracts and **React + Web3.js** for frontend.
+  - Implements **Decentralized Identifiers (DIDs)** and **Verifiable Credentials (VCs)** for authentication.
 
-<>- [Decentralized Real Estate Marketplace](https://github.com/yourproject) 🏡 
-<>  - Built using **Solidity + Hardhat** for smart contracts and **React + Web3.js** for frontend.
- <> - Implements **Decentralized Identifiers (DIDs)** and **Verifiable Credentials (VCs)** for authentication.
+- [Solana-based NFT Marketplace](https://github.com/yourproject) 🎨
+  - Developed with **Rust and Anchor Framework**.
+  - Allows **minting, buying, and selling NFTs** on Solana blockchain.
 
-<>- [Solana-based NFT Marketplace](https://github.com/yourproject) 🎨
- <> - Developed with **Rust and Anchor Framework**.
- <> - Allows **minting, buying, and selling NFTs** on Solana blockchain.
+- [Canton (Daml) Smart Contracts for Financial Transactions](https://github.com/yourproject) 🏦
+  - Utilizes **DAML for smart contract automation** in the finance sector.
+  - Implements secure **Multi-Party Computation (MPC)** to ensure transaction privacy.
+--> 
 
-<>- [Canton (Daml) Smart Contracts for Financial Transactions](https://github.com/yourproject) 🏦
- <> - Utilizes **DAML for smart contract automation** in the finance sector.
-  <>- Implements secure **Multi-Party Computation (MPC)** to ensure transaction privacy.
