@@ -24,7 +24,8 @@
 <p align="left">
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="Ethereum" width="40" height="40"/> </a> 
   <a href="https://solana.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Solana_logo.png" alt="Solana" width="40" height="40"/> </a> 
-  <a href="https://www.digitalasset.com" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/603fea6474db4c2a5e049f99/603fea6474db4c010504a0a7_DAML%20Logo.svg" alt="DAML" width="40" height="40"/> </a>
+  <a href="https://daml.com/" target="_blank" rel="noreferrer"> <img src="https://assets-global.website-files.com/603fea6474db4c2a5e049f99/603fea6474db4c010504a0a7_DAML%20Logo.svg" alt="DAML" width="40" height="40"/> </a>
+
   <a href="https://web3.foundation/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Polkadot_logo.png" alt="Web3" width="40" height="40"/> </a>
   <a href="https://ipfs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/IPFS_logo.png" alt="IPFS" width="40" height="40"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
