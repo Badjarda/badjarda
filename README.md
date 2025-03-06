@@ -44,6 +44,3 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-Solidity-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-Rust-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![DAML](https://img.shields.io/badge/DAML-Canton-0061ff?style=for-the-badge&logo=DAML&logoColor=white)
-
-<h3>Ethereum</h3>
-![Solana Validator](https://img.shields.io/endpoint?url=https://solana-api.com/validator/stats)
