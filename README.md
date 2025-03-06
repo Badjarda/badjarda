@@ -46,4 +46,4 @@
 ![DAML](https://img.shields.io/badge/DAML-Canton-0061ff?style=for-the-badge&logo=DAML&logoColor=white)
 
 <h3>Ethereum</h3>
-![Ethereum Gas](https://img.shields.io/endpoint?url=https://ethgasstation.info/json/ethgasAPI.json)
+![Solana Validator](https://img.shields.io/endpoint?url=https://solana-api.com/validator/stats)
